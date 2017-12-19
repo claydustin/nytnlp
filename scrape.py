@@ -5,6 +5,8 @@ import nltk
 import gensim
 
 
+
+
 class nytnpl:
   
   def __init__(self, url):
